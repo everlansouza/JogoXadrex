@@ -9,6 +9,8 @@ namespace Xadrex_Console_Pessoal
         {
             Tabuleiro tabuleiro = new Tabuleiro(8, 8);
 
+            Tela.imprimirTabuleiro(tabuleiro);
+
             Console.ReadKey();
         }
     }
