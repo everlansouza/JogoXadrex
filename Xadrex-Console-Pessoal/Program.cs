@@ -16,6 +16,7 @@ namespace Xadrex_Console_Pessoal
                 tabuleiro.colocarPeca(new Torre(tabuleiro, Cor.Preta), new Posicao(1, 3));
                 tabuleiro.colocarPeca(new Rei(tabuleiro, Cor.Preta), new Posicao(0, 2));
 
+                tabuleiro.colocarPeca(new Rei(tabuleiro, Cor.Branca), new Posicao(3, 5));
 
                 Tela.imprimirTabuleiro(tabuleiro);
             }
