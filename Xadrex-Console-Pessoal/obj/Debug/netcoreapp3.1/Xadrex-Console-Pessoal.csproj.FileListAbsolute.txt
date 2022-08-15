@@ -1,0 +1,14 @@
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\bin\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.exe
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\bin\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.deps.json
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\bin\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.runtimeconfig.json
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\bin\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.runtimeconfig.dev.json
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\bin\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.dll
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\bin\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.pdb
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.csproj.AssemblyReference.cache
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.AssemblyInfoInputs.cache
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.AssemblyInfo.cs
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.csproj.CoreCompileInputs.cache
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.dll
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.pdb
+C:\Users\everlan\source\repos\JogoXadrex\Xadrex-Console-Pessoal\obj\Debug\netcoreapp3.1\Xadrex-Console-Pessoal.genruntimeconfig.cache
